@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487795902991",
+    "project_id": "otp1-e4e3a",
+    "storage_bucket": "otp1-e4e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487795902991:android:5267297c2bc4c379ae717a",
+        "android_client_info": {
+          "package_name": "com.example.otp_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VwpPNitjVKvenhBPdhGHvrCPKmuOgpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
